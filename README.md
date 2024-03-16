@@ -1,4 +1,30 @@
-# Getting Started with Create React App
+# Welcome to our Analyzer App 📢
+
+Project Name: Analyzer App 📈
+
+Description:
+
+This React application allows users to manage a set of coordinates, enabling them to:
+
+*Add Entities: Create new coordinate entities with their respective x and y values.
+*Delete Entities: Remove existing entities from the list.
+*Update Entities: Modify the x and y values of existing entities.
+*Get All Entities: Retrieve the complete list of entities.
+
+# Technologies:
+
+## Front End
+
+- React: Declarative UI library for building interactive user interfaces.
+- TypeScript: Enhances code maintainability and type safety with strong typing.
+- Redux Toolkit: Streamlines state management with concise actions, reducers, slices, and middleware.
+- RTK Query (Optional): Simplifies data fetching and caching with an easy-to-use API. Consider including RTK Query only if your application involves API requests.
+- Styled Components: Facilitates component-specific styling for a clean and maintainable approach.
+
+## Backend
+
+- Node.js: JavaScript runtime environment for server-side rendering or API development.
+- Express.js: Web framework for building robust Node.js applications (if you have a backend).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
